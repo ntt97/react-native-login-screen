@@ -8,9 +8,9 @@ export default class Logo extends Component {
             <View style={styles.container}>
                 <Image style={styles.image} source={logoImg} />
                  <Text style={styles.text}>react-native</Text>   
-
+            
             </View>
-
+    
         )
     }
 }
