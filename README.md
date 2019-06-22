@@ -11,7 +11,7 @@
 
 ## Install at local
 Open Terminal, then type command:  
-> git clone https://github.com/dwicao/react-native-login-screen.git
+> git clone https://github.com/ntt97/react-native-login-scree
 
 Go to project folder :
 > cd react-native-login-screen
